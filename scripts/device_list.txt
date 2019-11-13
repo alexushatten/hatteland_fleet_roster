@@ -14,6 +14,8 @@ mom,watchtower13
 mom,watchtower14
 mom,watchtower15
 mom,watchtower16
+mom,watchtower17
+mom,watchtower18
 mom,watchtower21
 mom,watchtower22
 mom,watchtower23
@@ -29,6 +31,7 @@ mom,watchtower32
 mom,watchtower33
 mom,watchtower34
 mom,watchtower35
+mom,watchtower36
 mom,watchtower41
 mom,watchtower42
 mom,watchtower43
